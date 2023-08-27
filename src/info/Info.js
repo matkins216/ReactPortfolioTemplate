@@ -66,7 +66,7 @@ export const info = {
     skills:
         {
             proficientWith: ['Javascript', 'React', 'Git', 'Github', 'MaterialUI', 'HTML5', 'CSS3', 'Figma', 'LucidChart', 'SemanticUI', 'SQL', 'Node.js', 'Express', 'MongoDB', 'Python', 'Django' ],
-            exposedTo: ['AWS', 'Azure', 'PostgresSQL']
+            exposedTo: ['AWS', 'Azure', 'PostgresSQL', 'Next.js', 'Typescript']
         }
     ,
     hobbies: [
